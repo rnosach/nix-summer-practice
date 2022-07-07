@@ -1,1 +1,1 @@
-Змінив рідмі файл.
+text to conflict
